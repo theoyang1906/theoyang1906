@@ -1,4 +1,6 @@
-public class testc {
+package com.test;
+
+public class test1 {
     private int age;
     private String name;
     private String sex;
@@ -9,5 +11,6 @@ public class testc {
         int age=20;
         String address="Los Angeles County California US";
         System.out.println(address);
+
     }
 }
