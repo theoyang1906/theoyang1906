@@ -7,7 +7,7 @@ public class testc {
         String sex="F";
         String name="theoyang";
         int age=20;
-        String address="中国北京";
+        String address="Los Angeles County California US";
         System.out.println(address);
     }
 }
